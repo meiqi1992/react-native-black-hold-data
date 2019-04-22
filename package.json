@@ -1,0 +1,16 @@
+{
+  "name": "react-native-black-hold-data",
+  "version": "1.0.0",
+  "description": "## Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-black-hold-data"
+  ],
+  "author": "Meiqi",
+  "license": "MIT"
+
+}
