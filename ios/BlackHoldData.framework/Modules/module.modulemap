@@ -1,0 +1,6 @@
+framework module BlackHoldData {
+  umbrella header "BlackHoldData.h"
+
+  export *
+  module * { export * }
+}
