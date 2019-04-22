@@ -23,7 +23,7 @@ const BlackHoldData = {
     },
     //支付成功
     setRyzf:(ryTID,ryzfType,hbType,hbAmount) =>{
-        RNBlackHoldData.setDD(ryTID,ryzfType,hbType,hbAmount)
+        RNBlackHoldData.setRyzf(ryTID,ryzfType,hbType,hbAmount)
     },
     //自定义事件
     setEvent:(event) =>{
