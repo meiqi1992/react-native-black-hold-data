@@ -2,6 +2,7 @@
 
 import { NativeModules } from 'react-native';
 
+const { RNBlackHoldData } = NativeModules;
 
 const BlackHoldData = {
     //初始化
